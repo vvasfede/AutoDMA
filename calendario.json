@@ -1,1 +1,34 @@
-
+[
+  {
+    "category": "27 de junio",
+    "completion": "Dia del ñiño"
+  },
+  {
+    "category": "2 de julio",
+    "completion": "Dia de la madre"
+  },
+  {
+    "category": "7 de agosto",
+    "completion": "Dia de la hamburguesa"
+  },
+  {
+    "category": "23 de septiembre",
+    "completion": "Elecciones presidenciales"
+  },
+  {
+    "category": "15 de octubre",
+    "completion": "Dia de la raza"
+  },
+  {
+    "category": "16 de noviembre",
+    "completion": "Dia de los gatos"
+  },
+  {
+    "category": "31 de diciembre",
+    "completion": "Pre año nuevo"
+  },
+  {
+    "category": "1 de enero",
+    "completion": "Año nuevo"
+  }
+]
