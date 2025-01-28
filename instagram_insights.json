@@ -1,0 +1,66 @@
+
+{
+  "data": [
+    {
+      "name": "reach",
+      "period": "day",
+      "title": "Cuentas alcanzadas",
+      "description": "Número de cuentas únicas que vieron tu contenido al menos una vez, incluido el de los anuncios. El contenido incluye publicaciones, historias, reels, videos y videos en vivo. El alcance es diferente de las impresiones, que pueden incluir varias visualizaciones del contenido por parte de las mismas cuentas. Esta métrica es una estimación y está en desarrollo.",
+      "total_value": {
+        "value": 9625
+      },
+      "id": "17841456667998339/insights/reach/day"
+    },
+    {
+      "name": "impressions",
+      "period": "day",
+      "title": "Impresiones",
+      "description": "Número de veces que tus publicaciones, historias, reels, videos y videos en vivo se mostraron en pantalla, incluso en anuncios.",
+      "total_value": {
+        "value": 34958
+      },
+      "id": "17841456667998339/insights/impressions/day"
+    },
+    {
+      "name": "profile_views",
+      "period": "day",
+      "title": "Visitas al perfil",
+      "description": "Número de veces que se visitó tu perfil.",
+      "total_value": {
+        "value": 1002
+      },
+      "id": "17841456667998339/insights/profile_views/day"
+    },
+    {
+      "name": "website_clicks",
+      "period": "day",
+      "title": "Toques en enlace del sitio web",
+      "description": "Número de veces que se tocó el enlace a tu sitio web.",
+      "total_value": {
+        "value": 358
+      },
+      "id": "17841456667998339/insights/website_clicks/day"
+    },
+    {
+      "name": "accounts_engaged",
+      "period": "day",
+      "title": "Cuentas que interactuaron",
+      "description": "Número de cuentas que interactuaron con tu contenido, incluido el de los anuncios. El contenido incluye publicaciones, historias, reels, videos y videos en vivo. Las interacciones pueden incluir acciones como Me gusta, comentarios, respuestas o veces que se guardó o compartió el contenido. Estas métricas son una estimación y están en desarrollo.",
+      "total_value": {
+        "value": 177
+      },
+      "id": "17841456667998339/insights/accounts_engaged/day"
+    },
+    {
+      "name": "follows_and_unfollows",
+      "period": "day",
+      "title": "Seguidores y personas que dejaron de seguirte",
+      "description": "Número de cuentas que empezaron a seguirte y el número de cuentas que dejaron de seguirte o que abandonaron Instagram en el período que seleccionaste.",
+      "id": "17841456667998339/insights/follows_and_unfollows/day"
+    }
+  ],
+  "paging": {
+    "previous": "https://graph.facebook.com/v21.0/17841456667998339/insights?access_token=EAA1kTQIJ7B8BO1QP8F1A8isE94ksH3MR2Wpmw5IzQ3bqbIxeWFtboZCLUHW58RHwfZCZCFknXgfheSMEQTtQp4GItZALthE18REY6VzcPnbFgdePmdxsKZA9ZBgRzjeYbj20LmrEzZAvySCjhw7rOeQWPPosgquhn5m3hb1NxNKk4E4r8NFbiU4w7sPKZCDRuTG7BAZDZD&since=1734566520&until=1735689659&metric=reach%2Cimpressions%2Cprofile_views%2Cwebsite_clicks%2Caccounts_engaged%2Cfollows_and_unfollows&metric_type=total_value&period=day",
+    "next": "https://graph.facebook.com/v21.0/17841456667998339/insights?access_token=EAA1kTQIJ7B8BO1QP8F1A8isE94ksH3MR2Wpmw5IzQ3bqbIxeWFtboZCLUHW58RHwfZCZCFknXgfheSMEQTtQp4GItZALthE18REY6VzcPnbFgdePmdxsKZA9ZBgRzjeYbj20LmrEzZAvySCjhw7rOeQWPPosgquhn5m3hb1NxNKk4E4r8NFbiU4w7sPKZCDRuTG7BAZDZD&since=1736812800&until=1737935939&metric=reach%2Cimpressions%2Cprofile_views%2Cwebsite_clicks%2Caccounts_engaged%2Cfollows_and_unfollows&metric_type=total_value&period=day"
+  }
+}
