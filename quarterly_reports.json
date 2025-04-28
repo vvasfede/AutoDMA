@@ -1,0 +1,50 @@
+{
+  "Reports": [
+    {
+      "Quarterly Report": {
+        "brandName": "Nombre de la Marca",
+        "monthYear": "Abril/2025"
+      },
+      "BrandStrategy": {
+        "Objectives": [
+          "Objective 1...",
+          "Objective 2...",
+          "Objective 3..."
+        ],
+        "Results": [
+          "Result 1...",
+          "Result 2...",
+          "Result 3..."
+        ],
+        "Analysis": [
+          "Analysis point 1...",
+          "Analysis point 2...",
+          "Analysis point 3..."
+        ]
+      }
+    },
+    {
+      "Quarterly Report": {
+        "brandName": "Nombre de la Marca",
+        "monthYear": "Junio/2025"
+      },
+      "BrandStrategy": {
+        "Objectives": [
+          "Objective 1...",
+          "Objective 2...",
+          "Objective 3..."
+        ],
+        "Results": [
+          "Result 1...",
+          "Result 2...",
+          "Result 3..."
+        ],
+        "Analysis": [
+          "Analysis point 1...",
+          "Analysis point 2...",
+          "Analysis point 3..."
+        ]
+      }
+    }
+  ]
+}
