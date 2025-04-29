@@ -1,0 +1,33 @@
+{
+  "Reports": [
+    {
+      "Report metadata": {
+        "Business name": "...",
+        "Month/Year": "..."
+      },
+      "Proposal content": {
+        "Brand strategy": {
+          "Objectives": "...",
+          "Results": "...",
+          "Analysis": "..."
+        },
+        "Channeling strategy": {
+          "Objectives": "...",
+          "Results": "...",
+          "Analysis": "..."
+        },
+        "Organic strategy": {
+          "Objectives": "...",
+          "Results": "...",
+          "Analysis": "..."
+        },
+        "Boost strategy": {
+          "Objectives": "...",
+          "Results": "...",
+          "Analysis": "..."
+        },
+        "Quarterly report analysis": "..."
+      }
+    }
+  ]
+}
