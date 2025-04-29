@@ -1,0 +1,54 @@
+{
+  "Reports": [
+    {
+      "Report metadata": {
+        "Business name": "...",
+        "Month/Year": "...",
+        "Campaign name": "..."
+      },
+      "Proposal content": {
+        "Brand strategy": {
+          "Objectives": "...",
+          "Results": "...",
+          "Analysis": "..."
+        },
+        "Channeling strategy": {
+          "Strategy details": {
+            "Objectives": "...",
+            "Results": "...",
+            "Analysis": "..."
+          },
+          "Channel website proposal": {
+            "Objectives": "...",
+            "Results": "...",
+            "Analysis": "..."
+          }
+        },
+        "Organic strategy": {
+          "Strategy details": {
+            "Objectives": "...",
+            "Results": "...",
+            "Analysis": "..."
+          },
+          "Social media proposal": {
+            "Objectives": "...",
+            "Results": "...",
+            "Analysis": "..."
+          }
+        },
+        "Boost strategy": {
+          "Strategy details": {
+            "Objectives": "...",
+            "Results": "...",
+            "Analysis": "..."
+          },
+          "Ads marketing proposal": {
+            "Objectives": "...",
+            "Results": "...",
+            "Analysis": "..."
+          }
+        }
+      }
+    }
+  ]
+}
