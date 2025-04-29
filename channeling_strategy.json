@@ -1,0 +1,48 @@
+{
+  "Proposals": [
+    {
+      "Proposal metadata": {
+        "Proposal type": "...",
+        "Business type": "...",
+        "Business name": "...",
+        "Month/Year": "...",
+        "Campaign name": "..."
+      },
+      "Proposal content": {
+        "Channeling strategy objectives": {
+          "Specific strategy objectives": "..."
+        },
+        "Channel selection": {
+          "Selected channels": ["channel website"],
+          "Each selection rationale": "..."
+        },
+        "Omnichannel approach": {
+          "Integration flow": "..."
+        },
+        "Channeling strategy integration": {
+          "Channeling-to-organic strategy integration": "...",
+          "Channeling-to-boost strategy integration": "..."
+        },
+        "Channeling performance metrics": {
+          "Traffic": {
+            "Metric goal": "...",
+            "Metric baseline": "..."
+          },
+          "Scheduled appointments value": {
+            "Metric goal": "...",
+            "Metric baseline": "..."
+          },
+          "Conversions value": {
+            "Metric goal": "...",
+            "Metric baseline": "..."
+          }
+        },
+        "Cost structure": {
+          "Fixed costs": "...",
+          "Variable costs": "...",
+          "Total estimated cost": "..."
+        }
+      }
+    }
+  ]
+}
