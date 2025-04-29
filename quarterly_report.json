@@ -2,24 +2,13 @@
   "Reports": [
     {
       "Quarterly Report": {
-        "brandName": "Nombre de la Marca",
-        "monthYear": "Abril/2025"
+        "businessName": "...",
+        "monthYear": "..."
       },
       "BrandStrategy": {
-        "Objectives": "Descripción de los objetivos de la estrategia de marca...",
-        "Results": "Descripción de los resultados de la estrategia de marca...",
-        "Analysis": "Descripción del análisis de la estrategia de marca..."
-      }
-    },
-    {
-      "Quarterly Report": {
-        "brandName": "Nombre de la Marca",
-        "monthYear": "Junio/2025"
-      },
-      "BrandStrategy": {
-        "Objectives": "Descripción de los objetivos de la estrategia de marca para junio...",
-        "Results": "Descripción de los resultados de la estrategia de marca para junio...",
-        "Analysis": "Descripción del análisis de la estrategia de marca para junio..."
+        "Objectives": "...",
+        "Results": "...",
+        "Analysis": "..."
       }
     }
   ]
