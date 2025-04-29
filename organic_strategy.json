@@ -13,8 +13,11 @@
           "Specific strategy objectives": "..."
         },
         "Media selection": {
-          "Selected media": ["social media"],
-          "Each selection rationale": "..."
+          "Selected media": ["Media1", "Media2"],
+          "Selection rationale": {
+            "Media1": "...",
+            "Media2": "..."
+          }
         },
         "Omnimedia approach": {
           "Media orchestration": "..."
@@ -24,48 +27,96 @@
           "Organic-to-boost strategy integration": "..."
         },
         "Organic performance metrics": {
-          "Reach": {
-            "Metric goal": "...",
-            "Metric baseline": "..."
+          "Media1": {
+            "Reach": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Impressions": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Profile views": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Website clicks": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Total follows": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Engagement reach rate": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Engagement impressions rate": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Total posts": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Total stories": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            }
           },
-          "Impressions": {
-            "Metric goal": "...",
-            "Metric baseline": "..."
-          },
-          "Profile views": {
-            "Metric goal": "...",
-            "Metric baseline": "..."
-          },
-          "Website clicks": {
-            "Metric goal": "...",
-            "Metric baseline": "..."
-          },
-          "Total follows": {
-            "Metric goal": "...",
-            "Metric baseline": "..."
-          },
-          "Engagement reach rate": {
-            "Metric goal": "...",
-            "Metric baseline": "..."
-          },
-          "Engagement impressions rate": {
-            "Metric goal": "...",
-            "Metric baseline": "..."
-          },
-          "Total posts": {
-            "Metric goal": "...",
-            "Metric baseline": "..."
-          },
-          "Total stories": {
-            "Metric goal": "...",
-            "Metric baseline": "..."
+          "Media2": {
+            "Reach": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Impressions": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Profile views": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Website clicks": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Total follows": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Engagement reach rate": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Engagement impressions rate": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Total posts": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Total stories": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            }
           }
         },
         "Content expenses": {
-          "User-generated content cost": "...",
-          "In-house capture cost": "...",
-          "Multimedia model cost": "...",
-          "Total content cost": "..."
+          "Media1": {
+            "User-generated content cost": "...",
+            "In-house capture cost": "...",
+            "Multimedia model cost": "...",
+            "Total content cost": "..."
+          },
+          "Media2": {
+            "User-generated content cost": "...",
+            "In-house capture cost": "...",
+            "Multimedia model cost": "...",
+            "Total content cost": "..."
+          }
         }
       }
     }
