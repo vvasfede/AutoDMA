@@ -1,0 +1,48 @@
+{
+  "Proposals": [
+    {
+      "Proposal metadata": {
+        "Proposal type": "...",
+        "Business type": "...",
+        "Business name": "...",
+        "Month/Year": "...",
+        "Campaign name": "..."
+      },
+      "Proposal content": {
+        "Marketing strategy objectives": {
+          "Specific strategy objectives": "..."
+        },
+        "Marketing selection": {
+          "Selected marketing": ["ads marketing"],
+          "Each selection rationale": "..."
+        },
+        "Omnimarketing approach": {
+          "Campaigns synchronization": "..."
+        },
+        "Boost strategy integration": {
+          "Boost-to-channeling strategy integration": "...",
+          "Boost-to-organic strategy integration": "..."
+        },
+        "Boost performance metrics": {
+          "Reach": {
+            "Metric goal": "...",
+            "Metric baseline": "..."
+          },
+          "Scheduled appointments value": {
+            "Metric goal": "...",
+            "Metric baseline": "..."
+          },
+          "Conversions value": {
+            "Metric goal": "...",
+            "Metric baseline": "..."
+          }
+        },
+        "Budget allocation": {
+          "Budget per selected marketing": "...",
+          "Each budget rationale": "...",
+          "Total budget": "..."
+        }
+      }
+    }
+  ]
+}
