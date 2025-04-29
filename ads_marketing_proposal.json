@@ -1,0 +1,55 @@
+{
+  "Proposals": [
+    {
+      "Proposal metadata": {
+        "Proposal type": "...",
+        "Business type": "...",
+        "Business name": "...",
+        "Month/Year": "...",
+        "Campaign name": "..."
+      },
+      "Proposal content": {
+        "Ads marketing proposal objectives": {
+          "Specific proposal objectives": "..."
+        },
+        "Ads marketing platforms": {
+          "Selected platforms": ["Platform1", "Platform2"],
+          "Selection rationale": {
+            "Platform1": "...",
+            "Platform2": "..."
+          }
+        },
+        "Ads marketing structures": {
+          "Platform1": {
+            "Objectives": "...",
+            "Audience segmentation": "...",
+            "Budget allocation": "...",
+            "Schedule phases": "..."
+          },
+          "Platform2": {
+            "Objectives": "...",
+            "Audience segmentation": "...",
+            "Budget allocation": "...",
+            "Schedule phases": "..."
+          }
+        },
+        "Ads marketing content strategies": {
+          "Platform1": {
+            "Content objectives": "...",
+            "Target audiences": "...",
+            "Formats": "...",
+            "Style guide": "...",
+            "Content call to action": "..."
+          },
+          "Platform2": {
+            "Content objectives": "...",
+            "Target audiences": "...",
+            "Formats": "...",
+            "Style guide": "...",
+            "Content call to action": "..."
+          }
+        }
+      }
+    }
+  ]
+}
