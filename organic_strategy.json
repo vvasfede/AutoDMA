@@ -1,0 +1,73 @@
+{
+  "Proposals": [
+    {
+      "Proposal metadata": {
+        "Proposal type": "...",
+        "Business type": "...",
+        "Business name": "...",
+        "Month/Year": "...",
+        "Campaign name": "..."
+      },
+      "Proposal content": {
+        "Media strategy objectives": {
+          "Specific strategy objectives": "..."
+        },
+        "Media selection": {
+          "Selected media": ["social media"],
+          "Each selection rationale": "..."
+        },
+        "Omnimedia approach": {
+          "Media orchestration": "..."
+        },
+        "Organic strategy integration": {
+          "Organic-to-channeling strategy integration": "...",
+          "Organic-to-boost strategy integration": "..."
+        },
+        "Organic performance metrics": {
+          "Reach": {
+            "Metric goal": "...",
+            "Metric baseline": "..."
+          },
+          "Impressions": {
+            "Metric goal": "...",
+            "Metric baseline": "..."
+          },
+          "Profile views": {
+            "Metric goal": "...",
+            "Metric baseline": "..."
+          },
+          "Website clicks": {
+            "Metric goal": "...",
+            "Metric baseline": "..."
+          },
+          "Total follows": {
+            "Metric goal": "...",
+            "Metric baseline": "..."
+          },
+          "Engagement reach rate": {
+            "Metric goal": "...",
+            "Metric baseline": "..."
+          },
+          "Engagement impressions rate": {
+            "Metric goal": "...",
+            "Metric baseline": "..."
+          },
+          "Total posts": {
+            "Metric goal": "...",
+            "Metric baseline": "..."
+          },
+          "Total stories": {
+            "Metric goal": "...",
+            "Metric baseline": "..."
+          }
+        },
+        "Content expenses": {
+          "User-generated content cost": "...",
+          "In-house capture cost": "...",
+          "Multimedia model cost": "...",
+          "Total content cost": "..."
+        }
+      }
+    }
+  ]
+}
