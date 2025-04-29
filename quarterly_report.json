@@ -1,11 +1,11 @@
 {
   "Reports": [
     {
-      "Quarterly Report": {
-        "businessName": "...",
-        "monthYear": "..."
+      "Report metadata": {
+        "Business name": "...",
+        "Month/Year": "..."
       },
-      "BrandStrategy": {
+      "Report content": {
         "Objectives": "...",
         "Results": "...",
         "Analysis": "..."
