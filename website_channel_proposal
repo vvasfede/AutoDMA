@@ -1,0 +1,61 @@
+{
+  "Proposals": [
+    {
+      "Proposal metadata": {
+        "Proposal type": "...",
+        "Business type": "...",
+        "Business name": "...",
+        "Month/Year": "...",
+        "Campaign name": "..."
+      },
+      "Proposal content": {
+        "Channel website proposal objectives": {
+          "Specific proposal objectives": "..."
+        },
+        "Channel website platforms": {
+          "Selected platforms": ["Platform1", "Platform2"],
+          "Selection rationale": {
+            "Platform1": "...",
+            "Platform2": "..."
+          }
+        },
+        "Channel website structures": {
+          "Platform1": {
+            "Hierarchical sitemap": "...",
+            "Key components of each page": "...",
+            "Navigation menu": "...",
+            "Channel website user flow": "...",
+            "Features of each section": "..."
+          },
+          "Platform2": {
+            "Hierarchical sitemap": "...",
+            "Key components of each page": "...",
+            "Navigation menu": "...",
+            "Channel website user flow": "...",
+            "Features of each section": "..."
+          }
+        },
+        "Channel website content strategies": {
+          "Platform1": {
+            "Content objectives": "...",
+            "Target audience": "...",
+            "Formats": "...",
+            "Style guide": "...",
+            "Content themes": "...",
+            "Content map by section": "...",
+            "Publishing cadence": "..."
+          },
+          "Platform2": {
+            "Content objectives": "...",
+            "Target audience": "...",
+            "Formats": "...",
+            "Style guide": "...",
+            "Content themes": "...",
+            "Content map by section": "...",
+            "Publishing cadence": "..."
+          }
+        }
+      }
+    }
+  ]
+}
