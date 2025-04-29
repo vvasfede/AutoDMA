@@ -13,8 +13,11 @@
           "Specific strategy objectives": "..."
         },
         "Marketing selection": {
-          "Selected marketing": ["ads marketing"],
-          "Each selection rationale": "..."
+          "Selected marketing": ["Marketing1", "Marketing2"],
+          "Selection rationale": {
+            "Marketing1": "...",
+            "Marketing2": "..."
+          }
         },
         "Omnimarketing approach": {
           "Campaigns synchronization": "..."
@@ -24,22 +27,44 @@
           "Boost-to-organic strategy integration": "..."
         },
         "Boost performance metrics": {
-          "Reach": {
-            "Metric goal": "...",
-            "Metric baseline": "..."
+          "Marketing1": {
+            "Reach": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Scheduled appointments value": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Conversions value": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            }
           },
-          "Scheduled appointments value": {
-            "Metric goal": "...",
-            "Metric baseline": "..."
-          },
-          "Conversions value": {
-            "Metric goal": "...",
-            "Metric baseline": "..."
+          "Marketing2": {
+            "Reach": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Scheduled appointments value": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Conversions value": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            }
           }
         },
         "Budget allocation": {
-          "Budget per selected marketing": "...",
-          "Each budget rationale": "...",
+          "Marketing1": {
+            "Budget allocated": "...",
+            "Budget rationale": "..."
+          },
+          "Marketing2": {
+            "Budget allocated": "...",
+            "Budget rationale": "..."
+          },
           "Total budget": "..."
         }
       }
