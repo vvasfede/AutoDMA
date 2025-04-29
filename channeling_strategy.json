@@ -13,8 +13,11 @@
           "Specific strategy objectives": "..."
         },
         "Channel selection": {
-          "Selected channels": ["channel website"],
-          "Each selection rationale": "..."
+          "Selected channels": ["Channel1", "Channel2"],
+          "Selection rationale": {
+            "Channel1": "...",
+            "Channel2": "..."
+          }
         },
         "Omnichannel approach": {
           "Integration flow": "..."
@@ -24,23 +27,46 @@
           "Channeling-to-boost strategy integration": "..."
         },
         "Channeling performance metrics": {
-          "Traffic": {
-            "Metric goal": "...",
-            "Metric baseline": "..."
+          "Channel1": {
+            "Traffic": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Scheduled appointments value": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Conversions value": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            }
           },
-          "Scheduled appointments value": {
-            "Metric goal": "...",
-            "Metric baseline": "..."
-          },
-          "Conversions value": {
-            "Metric goal": "...",
-            "Metric baseline": "..."
+          "Channel2": {
+            "Traffic": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Scheduled appointments value": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Conversions value": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            }
           }
         },
         "Cost structure": {
-          "Fixed costs": "...",
-          "Variable costs": "...",
-          "Total estimated cost": "..."
+          "Channel1": {
+            "Fixed costs": "...",
+            "Variable costs": "...",
+            "Total estimated cost": "..."
+          },
+          "Channel2": {
+            "Fixed costs": "...",
+            "Variable costs": "...",
+            "Total estimated cost": "..."
+          }
         }
       }
     }
