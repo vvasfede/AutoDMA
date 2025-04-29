@@ -1,0 +1,63 @@
+{
+  "Proposals": [
+    {
+      "Proposal metadata": {
+        "Proposal type": "...",
+        "Business type": "...",
+        "Business name": "...",
+        "Month/Year": "...",
+        "Campaign name": "..."
+      },
+      "Proposal content": {
+        "Social media proposal objectives": {
+          "Specific proposal objectives": "..."
+        },
+        "Social media platforms": {
+          "Selected platforms": ["Platform1", "Platform1"],
+          "Selection rationale": {
+            "Platform1": "...",
+            "Platform2": "..."
+          }
+        },
+        "Social media structures": {
+          "Platform1": {
+            "Bio": "...",
+            "Link in bio": "...",
+            "Contact buttons": "...",
+            "Display name": "...",
+            "Featured stories": "...",
+            "Pinned posts": "...",
+            "Profile-cover pictures": "..."
+          },
+          "Platform2": {
+            "Bio": "...",
+            "Link in bio": "...",
+            "Contact buttons": "...",
+            "Display name": "...",
+            "Featured stories": "...",
+            "Pinned posts": "...",
+            "Profile-cover pictures": "..."
+          }
+        },
+        "Social media content strategies": {
+          "Platform1": {
+            "Content objectives": "...",
+            "Target audiences": "...",
+            "Formats": "...",
+            "Style guide": "...",
+            "Content pillars": "...",
+            "Publishing frequency": "..."
+          },
+          "Platform2": {
+            "Content objectives": "...",
+            "Target audiences": "...",
+            "Formats": "...",
+            "Style guide": "...",
+            "Content pillars": "...",
+            "Publishing frequency": "..."
+          }
+        }
+      }
+    }
+  ]
+}
