@@ -9,8 +9,9 @@
         "Campaign name": "..."
       },
       "Proposal content": {
-        "Strategy objectives": {
-          "Specific strategy objectives": "..."
+        "Strategy objective": {
+          "Specific objective 1": "...",
+          "Specific objective 2": "..."
         },
         "Value proposition": {
           "Functional value": "...",
