@@ -9,8 +9,9 @@
         "Campaign name": "..."
       },
       "Proposal content": {
-        "Media strategy objectives": {
-          "Specific strategy objectives": "..."
+        "Organic strategy objectives": {
+          "Specific objective 1": "...",
+          "Specific objective 2": "..."
         },
         "Media selection": {
           "Selected media": ["Media1", "Media2"],
