@@ -9,8 +9,9 @@
         "Campaign name": "..."
       },
       "Proposal content": {
-        "Marketing strategy objectives": {
-          "Specific strategy objectives": "..."
+        "Strategy objectives": {
+          "Specific objective 1": "...",
+          "Specific objective 2": "..."
         },
         "Marketing selection": {
           "Selected marketing": ["Marketing1", "Marketing2"],
