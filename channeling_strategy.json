@@ -9,8 +9,9 @@
         "Campaign name": "..."
       },
       "Proposal content": {
-        "Channeling strategy objectives": {
-          "Specific strategy objectives": "..."
+        "Strategy objectives": {
+          "Specific objective 1": "...",
+          "Specific objective 2": "..."
         },
         "Channel selection": {
           "Selected channels": ["Channel1", "Channel2"],
