@@ -6,26 +6,10 @@
         "Month/Year": "..."
       },
       "Report content": {
-        "Brand strategy": {
-          "Objectives": "...",
-          "Results": "...",
-          "Analysis": "..."
-        },
-        "Channeling strategy": {
-          "Objectives": "...",
-          "Results": "...",
-          "Analysis": "..."
-        },
-        "Organic strategy": {
-          "Objectives": "...",
-          "Results": "...",
-          "Analysis": "..."
-        },
-        "Boost strategy": {
-          "Objectives": "...",
-          "Results": "...",
-          "Analysis": "..."
-        }
+        "Brand strategy analysis": "...",
+        "Channeling strategy analysis": "...",
+        "Organic strategy analysis": "...",
+        "Boost strategy analysis": "..."
       }
     }
   ]
