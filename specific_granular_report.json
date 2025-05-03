@@ -7,6 +7,29 @@
         "Campaign name": "..."
       },
       "Report content": {
+        "Channeling strategy": {
+          "Channel website": {
+            "Shopify": {
+              "Traffic": "...",
+              "Conversions": "...",
+              "Scheduled appointments": "...",
+              "Abandoned carts": "...",
+              "Abandoned checkouts": "...",
+              "Most sale product 1": {
+                "Product name": "...",
+                "Conversion value": "..."
+              },
+              "Most sale product 2": {
+                "Product name": "...",
+                "Conversion value": "..."
+              },
+              "Most sale product 3": {
+                "Product name": "...",
+                "Conversion value": "..."
+              }
+            }
+          }
+        },
         "Organic strategy": {
           "Social media": {
             "Instagram": {
