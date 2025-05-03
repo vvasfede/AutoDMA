@@ -1,142 +1,173 @@
 {
-  "Reports": [
+  "Monthly reports": [
     {
       "Report metadata": {
         "Business name": "...",
         "Month/Year": "..."
       },
       "Report content": {
-        "Organic": {
-          "Reach": "...",
-          "Impressions": "...",
-          "Profile views": "...",
-          "Website clicks": "...",
-          "Total follows": "...",
-          "Engagement reach rate": "...",
-          "Engagement impressions rate": "...",
-          "Total posts": "...",
-          "Total stories": "...",
-          "Featured post 1": {
-            "Post ID": "...",
-            "Media type": "...",
-            "Description": "...",
-            "Likes": "...",
-            "Date": "..."
-          },
-          "Featured post 2": {
-            "Post ID": "...",
-            "Media type": "...",
-            "Description": "...",
-            "Likes": "...",
-            "Date": "..."
-          },
-          "Featured post 3": {
-            "Post ID": "...",
-            "Media type": "...",
-            "Description": "...",
-            "Likes": "...",
-            "Date": "..."
+        "Channeling strategy": {
+          "Channel website": {
+            "Shopify": {
+              "Traffic": "...",
+              "Conversions": "...",
+              "Scheduled appointments": "...",
+              "Abandoned carts": "...",
+              "Abandoned checkouts": "...",
+              "Most sale product 1": {
+                "Product name": "...",
+                "Conversion value": "..."
+              },
+              "Most sale product 2": {
+                "Product name": "...",
+                "Conversion value": "..."
+              },
+              "Most sale product 3": {
+                "Product name": "...",
+                "Conversion value": "..."
+              }
+            }
           }
         },
-        "Reach ads": {
-          "Spend": "...",
-          "Reach": "...",
-          "Impressions": "...",
-          "Cost per reach": "...",
-          "Cost per mille impressions": "...",
-          "Frequency": "...",
-          "Clicks": "...",
-          "CPC": "...",
-          "CTR": "...",
-          "Profile views": "...",
-          "Link clicks": "...",
-          "Featured creative 1": {
-            "Creative name": "...",
-            "Creative ID": "...",
-            "Description": "...",
-            "CTR": "..."
-          },
-          "Featured creative 2": {
-            "Creative name": "...",
-            "Creative ID": "...",
-            "Description": "...",
-            "CTR": "..."
-          },
-          "Featured creative 3": {
-            "Creative name": "...",
-            "Creative ID": "...",
-            "Description": "...",
-            "CTR": "..."
+        "Organic strategy": {
+          "Social media": {
+            "Instagram": {
+              "Reach": "...",
+              "Impressions": "...",
+              "Profile views": "...",
+              "Website clicks": "...",
+              "Engagement reach rate": "...",
+              "Engagement impressions rate": "...",
+              "Total posts": "...",
+              "Post 1": {
+                "Post ID": "...",
+                "Media type": "...",
+                "Description": "...",
+                "Likes": "...",
+                "Date": "..."
+              },
+              "Post 2": {
+                "Post ID": "...",
+                "Media type": "...",
+                "Description": "...",
+                "Likes": "...",
+                "Date": "..."
+              },
+              "Post 3": {
+                "Post ID": "...",
+                "Media type": "...",
+                "Description": "...",
+                "Likes": "...",
+                "Date": "..."
+              }
+            }
           }
         },
-        "Conversion ads": {
-          "Spend": "...",
-          "Reach": "...",
-          "Impressions": "...",
-          "Cost per reach": "...",
-          "Cost per mille impressions": "...",
-          "Frequency": "...",
-          "Clicks": "...",
-          "CPC": "...",
-          "CTR": "...",
-          "Profile views": "...",
-          "Link clicks": "...",
-          "Cost per landing page view": "...",
-          "Purchases": "...",
-          "Purchase value": "...",
-          "Purchase ROAS": "...",
-          "Featured creative 1": {
-            "Creative name": "...",
-            "Creative ID": "...",
-            "Description": "...",
-            "CTR": "..."
-          },
-          "Featured creative 2": {
-            "Creative name": "...",
-            "Creative ID": "...",
-            "Description": "...",
-            "CTR": "..."
-          },
-          "Featured creative 3": {
-            "Creative name": "...",
-            "Creative ID": "...",
-            "Description": "...",
-            "CTR": "..."
-          }
-        },
-        "Reservation ads": {
-          "Spend": "...",
-          "Reach": "...",
-          "Impressions": "...",
-          "Cost per reach": "...",
-          "Cost per mille impressions": "...",
-          "Frequency": "...",
-          "Clicks": "...",
-          "CPC": "...",
-          "CTR": "...",
-          "Profile views": "...",
-          "Link clicks": "...",
-          "Cost per landing page view": "...",
-          "Scheduled appointments": "...",
-          "Scheduled appointments value": "...",
-          "Scheduled appointments ROAS": "...",
-          "Featured creative 1": {
-            "Creative name": "...",
-            "Creative ID": "...",
-            "Description": "...",
-            "CTR": "..."
-          },
-          "Featured creative 2": {
-            "Creative name": "...",
-            "Creative ID": "...",
-            "Description": "...",
-            "CTR": "..."
-          },
-          "Featured creative 3": {
-            "Creative name": "...",
-            "Creative ID": "...",
-            "Description": "...",
-            "CTR": "..."
+        "Boost strategy": {
+          "Ads marketing": {
+            "Meta": {
+              "Reach ads": {
+                "Spend": "...",
+                "Reach": "...",
+                "Impressions": "...",
+                "Cost per reach": "...",
+                "Cost per mille impressions": "...",
+                "Frequency": "...",
+                "Clicks": "...",
+                "CPC": "...",
+                "CTR": "...",
+                "Profile views": "...",
+                "Link clicks": "...",
+                "Featured creative 1": {
+                  "Creative name": "...",
+                  "Creative ID": "...",
+                  "Description": "...",
+                  "CTR": "..."
+                },
+                "Featured creative 2": {
+                  "Creative name": "...",
+                  "Creative ID": "...",
+                  "Description": "...",
+                  "CTR": "..."
+                },
+                "Featured creative 3": {
+                  "Creative name": "...",
+                  "Creative ID": "...",
+                  "Description": "...",
+                  "CTR": "..."
+                }
+              },
+              "Conversion ads": {
+                "Spend": "...",
+                "Reach": "...",
+                "Impressions": "...",
+                "Cost per reach": "...",
+                "Cost per mille impressions": "...",
+                "Frequency": "...",
+                "Clicks": "...",
+                "CPC": "...",
+                "CTR": "...",
+                "Profile views": "...",
+                "Link clicks": "...",
+                "Cost per landing page view": "...",
+                "Purchases": "...",
+                "Purchase value": "...",
+                "Purchase ROAS": "...",
+                "Featured creative 1": {
+                  "Creative name": "...",
+                  "Creative ID": "...",
+                  "Description": "...",
+                  "CTR": "..."
+                },
+                "Featured creative 2": {
+                  "Creative name": "...",
+                  "Creative ID": "...",
+                  "Description": "...",
+                  "CTR": "..."
+                },
+                "Featured creative 3": {
+                  "Creative name": "...",
+                  "Creative ID": "...",
+                  "Description": "...",
+                  "CTR": "..."
+                }
+              },
+              "Reservation ads": {
+                "Spend": "...",
+                "Reach": "...",
+                "Impressions": "...",
+                "Cost per reach": "...",
+                "Cost per mille impressions": "...",
+                "Frequency": "...",
+                "Clicks": "...",
+                "CPC": "...",
+                "CTR": "...",
+                "Profile views": "...",
+                "Link clicks": "...",
+                "Cost per landing page view": "...",
+                "Scheduled appointments": "...",
+                "Scheduled appointments value": "...",
+                "Scheduled appointments ROAS": "...",
+                "Featured creative 1": {
+                  "Creative name": "...",
+                  "Creative ID": "...",
+                  "Description": "...",
+                  "CTR": "..."
+                },
+                "Featured creative 2": {
+                  "Creative name": "...",
+                  "Creative ID": "...",
+                  "Description": "...",
+                  "CTR": "..."
+                },
+                "Featured creative 3": {
+                  "Creative name": "...",
+                  "Creative ID": "...",
+                  "Description": "...",
+                  "CTR": "..."
+                }
+              }
+            }
           }
         }
       }
