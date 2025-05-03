@@ -3,8 +3,10 @@
     {
       "Report metadata": {
         "Business name": "...",
-        "Month/Year": "...",
-        "Campaign name": "..."
+        "Business type": "...",
+        "Campaign name": "...",
+        "Start date": "...",
+        "End date": "..."
       },
       "Report content": {
         "Brand strategy": {
