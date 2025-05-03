@@ -1,0 +1,73 @@
+{
+  "Specifc brand strategies": [
+    {
+      "Proposal metadata": {
+        "Business name": "...",
+        "Business type": "...",
+        "Month/Year": "...",
+        "Campaign name": "..."
+      },
+      "Proposal content": {
+        "Brand strategy objectives": {
+          "Specific objective 1": "...",
+          "Specific objective 2": "..."
+        },
+        "Value proposition": {
+          "Functional value": "...",
+          "Emotional value": "...",
+          "Social value": "...",
+          "Customer need addressed": "...",
+          "Core brand promise": "..."
+        },
+        "Brand positioning": {
+          "Target audience": "...",
+          "Niche": "...",
+          "Key differentiators": "...",
+          "Competitor reference": "...",
+          "Desired perception": "...",
+          "Market category": "..."
+        },
+        "Brand narrative": {
+          "Brand origin": "...",
+          "Brand purpose": "...",
+          "Core values": "...",
+          "Mission statement": "...",
+          "Vision statement": "...",
+          "Signature story": "..."
+        },
+        "Brand message": {
+          "Key messages": "...",
+          "Taglines": "...",
+          "Tone of voice": "...",
+          "Communication style": "...",
+          "Message per audience segment": "..."
+        },
+        "Brand identity": {
+          "Design style": "...",
+          "Visual tone": "...",
+          "Imagery style": "...",
+          "Color palette": "...",
+          "Typography": "..."
+        },
+        "Performance metrics": {
+          "Featured posts descriptions": {
+            "Metric goal": "...",
+            "Metric baseline": "..."
+          },
+          "Featured creatives descriptions": {
+            "Metric goal": "...",
+            "Metric baseline": "..."
+          }
+        },
+        "Brand margin": {
+          "Identity-message constraints": "...",
+          "Narrative limits": "...",
+          "Positioning rigidity": "...",
+          "Audience expansion barriers": "...",
+          "Market entry limitations": "...",
+          "Strategic flexibility": "..."
+        }
+      }
+    }
+  ]
+}
