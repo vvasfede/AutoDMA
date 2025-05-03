@@ -1,0 +1,74 @@
+{
+  "Specific boost strategies": [
+    {
+      "Proposal metadata": {
+        "Business name": "...",
+        "Business type": "...",
+        "Month/Year": "...",
+        "Campaign name": "..."
+      },
+      "Proposal content": {
+        "Boost strategy objectives": {
+          "Specific objective 1": "...",
+          "Specific objective 2": "..."
+        },
+        "Marketing selection": {
+          "Selected marketing": ["Marketing1", "Marketing2"],
+          "Selection rationale": {
+            "Marketing1": "...",
+            "Marketing2": "..."
+          }
+        },
+        "Omnimarketing approach": {
+          "Structures orchestration": "...",
+          "Contents orchestration": "..."
+        },
+        "Boost strategy integration": {
+          "Boost-to-channeling strategy integration": "...",
+          "Boost-to-organic strategy integration": "..."
+        },
+        "Boost performance metrics": {
+          "Marketing1": {
+            "Reach": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Scheduled appointments value": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Conversions value": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            }
+          },
+          "Marketing2": {
+            "Reach": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Scheduled appointments value": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Conversions value": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            }
+          }
+        },
+        "Budget allocation": {
+          "Marketing1": {
+            "Budget allocated": "...",
+            "Budget rationale": "..."
+          },
+          "Marketing2": {
+            "Budget allocated": "...",
+            "Budget rationale": "..."
+          },
+          "Total budget": "..."
+        }
+      }
+    }
+  ]
+}
