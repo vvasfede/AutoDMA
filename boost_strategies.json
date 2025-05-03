@@ -1,12 +1,10 @@
 {
-  "Proposals": [
+  "Boost strategies": [
     {
       "Proposal metadata": {
-        "Proposal type": "...",
-        "Business type": "...",
         "Business name": "...",
-        "Month/Year": "...",
-        "Campaign name": "..."
+        "Business type": "...",
+        "Month/Year": "..."
       },
       "Proposal content": {
         "Boost strategy objectives": {
