@@ -1,0 +1,75 @@
+{
+  "Specific channeling strategies": [
+    {
+      "Proposal metadata": {
+        "Business name": "...",
+        "Business type": "...",
+        "Month/Year": "...",
+        "Campaign name": "..."
+      },
+      "Proposal content": {
+        "Channeling strategy objectives": {
+          "Specific objective 1": "...",
+          "Specific objective 2": "..."
+        },
+        "Channel selection": {
+          "Selected channels": ["Channel1", "Channel2"],
+          "Selection rationale": {
+            "Channel1": "...",
+            "Channel2": "..."
+          }
+        },
+        "Omnichannel approach": {
+          "Structures orchestration": "...",
+          "Contents orchestration": "..."
+        },
+        "Channeling strategy integration": {
+          "Channeling-to-organic strategy integration": "...",
+          "Channeling-to-boost strategy integration": "..."
+        },
+        "Channeling performance metrics": {
+          "Channel1": {
+            "Traffic": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Scheduled appointments value": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Conversions value": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            }
+          },
+          "Channel2": {
+            "Traffic": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Scheduled appointments value": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            },
+            "Conversions value": {
+              "Metric goal": "...",
+              "Metric baseline": "..."
+            }
+          }
+        },
+        "Cost structure": {
+          "Channel1": {
+            "Fixed costs": "...",
+            "Variable costs": "...",
+            "Total estimated cost": "..."
+          },
+          "Channel2": {
+            "Fixed costs": "...",
+            "Variable costs": "...",
+            "Total estimated cost": "..."
+          }
+        }
+      }
+    }
+  ]
+}
