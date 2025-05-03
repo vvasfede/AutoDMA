@@ -8,7 +8,7 @@
       },
       "Report content": {
         "Channeling strategy": {
-          "Channel website": {
+          "Channel website proposal": {
             "Platform1": {
               "Traffic": "...",
               "Conversions": "...",
@@ -31,7 +31,7 @@
           }
         },
         "Organic strategy": {
-          "Social media": {
+          "Social media proposal": {
             "Platform1": {
               "Reach": "...",
               "Impressions": "...",
@@ -65,7 +65,7 @@
           }
         },
         "Boost strategy": {
-          "Ads marketing": {
+          "Ads marketing proposal": {
             "Platform1": {
               "Reach ads": {
                 "Spend": "...",
