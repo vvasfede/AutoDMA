@@ -4,8 +4,9 @@
       "Proposal metadata": {
         "Business name": "...",
         "Business type": "...",
-        "Month/Year": "...",
-        "Campaign name": "..."
+        "Campaign name": "...",
+        "Start date": "...",
+        "End date": "..."
       },
       "Proposal content": {
         "Channel website proposal objectives": {
