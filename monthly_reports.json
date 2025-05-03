@@ -7,8 +7,8 @@
       },
       "Report content": {
         "Channeling strategy": {
-          "Channel website": {
-            "Shopify": {
+          "Channel website proposal": {
+            "Platform1": {
               "Traffic": "...",
               "Conversions": "...",
               "Scheduled appointments": "...",
@@ -30,8 +30,8 @@
           }
         },
         "Organic strategy": {
-          "Social media": {
-            "Instagram": {
+          "Social media proposal": {
+            "Platform1": {
               "Reach": "...",
               "Impressions": "...",
               "Profile views": "...",
@@ -64,8 +64,8 @@
           }
         },
         "Boost strategy": {
-          "Ads marketing": {
-            "Meta": {
+          "Ads marketing proposal": {
+            "Platform1": {
               "Reach ads": {
                 "Spend": "...",
                 "Reach": "...",
