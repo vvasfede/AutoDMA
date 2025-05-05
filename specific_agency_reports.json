@@ -9,20 +9,20 @@
         "End date": "..."
       },
       "Report content": {
-        "Brand strategy": {
+        "Specific brand strategy": {
           "Strategy details": {
             "Objectives": "...",
             "Results": "...",
             "Analysis": "..."
           }
         },
-        "Channeling strategy": {
+        "Specific channeling strategy": {
           "Strategy details": {
             "Objectives": "...",
             "Results": "...",
             "Analysis": "..."
           },
-          "Channel website proposal": {
+          "Specific channel website proposal": {
             "Proposal details": {
               "Objectives": "...",
               "Results": "...",
@@ -30,13 +30,13 @@
             }
           }
         },
-        "Organic strategy": {
+        "Specific organic strategy": {
           "Strategy details": {
             "Objectives": "...",
             "Results": "...",
             "Analysis": "..."
           },
-          "Social media proposal": {
+          "Specific social media proposal": {
             "Proposal details": {
               "Objectives": "...",
               "Results": "...",
@@ -44,13 +44,13 @@
             }
           }
         },
-        "Boost strategy": {
+        "Specific boost strategy": {
           "Strategy details": {
             "Objectives": "...",
             "Results": "...",
             "Analysis": "..."
           },
-          "Ads marketing proposal": {
+          "Specific ads marketing proposal": {
             "Proposal details": {
               "Objectives": "...",
               "Results": "...",
