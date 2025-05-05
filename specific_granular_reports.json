@@ -9,8 +9,8 @@
         "End date": "..."
       },
       "Report content": {
-        "Channeling strategy": {
-          "Channel website proposal": {
+        "Specific channeling strategy": {
+          "Specific channel website proposal": {
             "Platform1": {
               "Traffic": "...",
               "Conversions": "...",
@@ -32,8 +32,8 @@
             }
           }
         },
-        "Organic strategy": {
-          "Social media proposal": {
+        "Specific organic strategy": {
+          "Specific social media proposal": {
             "Platform1": {
               "Reach": "...",
               "Impressions": "...",
@@ -66,8 +66,8 @@
             }
           }
         },
-        "Boost strategy": {
-          "Ads marketing proposal": {
+        "Specific boost strategy": {
+          "Specific ads marketing proposal": {
             "Platform1": {
               "Reach ads": {
                 "Spend": "...",
