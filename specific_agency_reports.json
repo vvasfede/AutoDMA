@@ -10,9 +10,11 @@
       },
       "Report content": {
         "Brand strategy": {
-          "Objectives": "...",
-          "Results": "...",
-          "Analysis": "..."
+          "Strategy details": {
+            "Objectives": "...",
+            "Results": "...",
+            "Analysis": "..."
+          }
         },
         "Channeling strategy": {
           "Strategy details": {
@@ -21,9 +23,11 @@
             "Analysis": "..."
           },
           "Channel website proposal": {
-            "Objectives": "...",
-            "Results": "...",
-            "Analysis": "..."
+            "Proposal details": {
+              "Objectives": "...",
+              "Results": "...",
+              "Analysis": "..."
+            }
           }
         },
         "Organic strategy": {
@@ -33,9 +37,11 @@
             "Analysis": "..."
           },
           "Social media proposal": {
-            "Objectives": "...",
-            "Results": "...",
-            "Analysis": "..."
+            "Proposal details": {
+              "Objectives": "...",
+              "Results": "...",
+              "Analysis": "..."
+            }
           }
         },
         "Boost strategy": {
@@ -45,9 +51,11 @@
             "Analysis": "..."
           },
           "Ads marketing proposal": {
-            "Objectives": "...",
-            "Results": "...",
-            "Analysis": "..."
+            "Proposal details": {
+              "Objectives": "...",
+              "Results": "...",
+              "Analysis": "..."
+            }
           }
         }
       }
