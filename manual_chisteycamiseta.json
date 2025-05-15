@@ -1,0 +1,91 @@
+{
+    "titulo": "Manual de Producto: Chiste&Camiseta",
+    "descripcion": "Descripción Detallada, Interacción y Operación",
+    "parte_I": {
+        "descripcion_detallada_del_producto": {
+            "seccion_1": {
+                "caracteristicas_y_componentes": {
+                    "descripcion_general_y_arquitectura": {
+                        "material": "Algodón orgánico 100% certificado GOTS",
+                        "tallas": [
+                            "XS",
+                            "S",
+                            "M",
+                            "L",
+                            "XL",
+                            "XXL"
+                        ],
+                        "peso": "180 g",
+                        "diseno_fisico": "Corte clásico, cuello redondo, costuras reforzadas",
+                        "impresion": "DTG (Direct to Garment), con tinta ecológica"
+                    },
+                    "listado_exhaustivo_de_caracteristicas": [
+                        {
+                            "nombre": "Frase Impresa Personalizada",
+                            "descripcion": "Cada camiseta incluye una frase o chiste visual en la parte frontal.",
+                            "beneficio": "Originalidad, conversación social, autoexpresión",
+                            "importancia": "Alta",
+                            "interdependencias": "Depende del módulo de diseño en el sitio web"
+                        },
+                        {
+                            "nombre": "Algodón Orgánico Certificado",
+                            "descripcion": "Tejido suave y transpirable, cultivado sin pesticidas",
+                            "beneficio": "Comodidad + conciencia ecológica",
+                            "importancia": "Alta",
+                            "interdependencias": "Relación con proveedores sostenibles"
+                        },
+                        {
+                            "nombre": "Corte Unisex y Tallas Inclusivas",
+                            "descripcion": "Diseño pensado para adaptarse a diferentes cuerpos",
+                            "beneficio": "Inclusividad y accesibilidad de estilo",
+                            "importancia": "Media",
+                            "interdependencias": "Tabla de tallas clara y precisa"
+                        },
+                        {
+                            "nombre": "Ediciones Limitadas",
+                            "descripcion": "Cada diseño solo se produce durante 30 días",
+                            "beneficio": "Exclusividad, urgencia de compra",
+                            "importancia": "Alta",
+                            "interdependencias": "Control de inventario"
+                        }
+                    ],
+                    "componentes_internos_y_externos": {
+                        "internos": [
+                            "Tejido",
+                            "Costuras",
+                            "Etiquetado",
+                            "Impresión"
+                        ],
+                        "externos": [
+                            "Plataforma de e-commerce",
+                            "API de impresión bajo demanda",
+                            "Canal de atención al cliente",
+                            "Influencers"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "parte_II": {
+        "interaccion_y_operacion": {
+            "uso_y_operacion_diaria": {
+                "guia_de_inicio_rapido": [
+                    "Abrir paquete",
+                    "Verificar talla",
+                    "Lavar antes del primer uso (recomendado)",
+                    "Disfrutar y provocar carcajadas"
+                ],
+                "mejores_practicas": [
+                    "Lavar con agua fría",
+                    "No usar secadora",
+                    "Planchar por el reverso"
+                ],
+                "tips_y_trucos": [
+                    "Combínala con chaquetas abiertas para mostrar el chiste",
+                    "Regálalas como ropa-mensaje en cumpleaños"
+                ]
+            }
+        }
+    }
+}
